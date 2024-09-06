@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nama": "Alice Johnson",
+        "username": "alicejohnson",
+        "password": "securepassword123"
+    },
+    {
+        "id": 2,
+        "nama": "Bob Smith",
+        "username": "bobsmith",
+        "password": "mypassword456"
+    },
+    {
+        "id": 3,
+        "nama": "Charlie Brown",
+        "username": "charliebrown",
+        "password": "password789"
+    },
+    {
+        "id": 4,
+        "nama": "Diana Prince",
+        "username": "dianaprince",
+        "password": "wonderful123"
+    },
+    {
+        "id": 5,
+        "nama": "Ethan Hunt",
+        "username": "ethanhunt",
+        "password": "missionimpossible"
+    }
+]
